@@ -22,7 +22,7 @@ public class MinBox {
 
     public static void main(String[] args) {
         MinBox s = new MinBox();
-        System.out.println(s.minBox(20));
+        System.out.println(s.minBox(50));
     }
 
 }
